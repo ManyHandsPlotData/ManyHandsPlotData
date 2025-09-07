@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🐍 My Python Learning Adventure
+# 🐍 My Python Learning
 
 *Because life's too short for boring, repetitive tasks*
 
